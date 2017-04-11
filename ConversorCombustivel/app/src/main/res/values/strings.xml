@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Conversor Combustivel</string>
+    <string name="preco_alcool">Preço Álcool</string>
+    <string name="verificar">Verificar</string>
+</resources>
