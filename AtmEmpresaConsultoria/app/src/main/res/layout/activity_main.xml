@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="br.com.kenzo.atmempresaconsultoria.MainActivity"
+    android:background="@android:color/white">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/logo"
+        android:background="@drawable/logo"
+        android:layout_marginTop="29dp"
+        android:id="@+id/imvLogo"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/menu_empresa"
+        android:background="@drawable/menu_empresa"
+        android:layout_marginTop="38dp"
+        android:id="@+id/imvEmpresa"
+        android:layout_below="@+id/imvLogo"
+        android:layout_alignStart="@+id/imvLogo" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/menu_servico"
+        android:background="@drawable/menu_servico"
+        android:id="@+id/imvServico"
+        android:layout_alignTop="@+id/imvEmpresa"
+        android:layout_alignEnd="@+id/imvLogo" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/menu_cliente"
+        android:background="@drawable/menu_cliente"
+        android:id="@+id/imvCliente"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/imvEmpresa"
+        android:layout_marginBottom="34dp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/menu_contato"
+        android:background="@drawable/menu_contato"
+        android:id="@+id/imvContato"
+        android:layout_alignTop="@+id/imvCliente"
+        android:layout_alignStart="@+id/imvServico" />
+</RelativeLayout>
