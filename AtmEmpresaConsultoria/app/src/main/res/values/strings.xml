@@ -2,4 +2,15 @@
     <string name="app_name">AtmEmpresaConsultoria</string>
     <string name="sobre_detalhe">Sobre a empresa</string>
     <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor lectus tellus, id mollis nibh congue eu. Maecenas lorem ante, porta ac auctor sit amet, iaculis non mauris. Nunc pharetra nisl nec hendrerit feugiat. Mauris auctor lectus ut sodales iaculis. Praesent suscipit posuere sapien, non tempus felis luctus at. Aenean euismod fermentum libero, vel aliquet sapien elementum eu. Aenean ultrices hendrerit ante, sit amet pellentesque nisi vehicula sit amet. Etiam sit amet ullamcorper tortor, non posuere eros. Aenean ante odio, feugiat at consequat a, semper id augue. Nullam vel consectetur dui. Etiam vel egestas elit. Ut finibus dignissim posuere. Nulla facilisi. Morbi sodales scelerisque mauris, ut pharetra nisl elementum vitae. Quisque nec nunc tincidunt, maximus risus vitae, scelerisque augue. Nunc commodo ac leo lobortis rutrum. Mauris eu dui sed tortor finibus fermentum et nec dolor. Duis vulputate vitae urna et lacinia. Aliquam lacinia pretium convallis. Donec scelerisque lacus massa, sit amet lacinia metus pretium eget. Vivamus sed commodo eros. Fusce a ultrices augue, sit amet dictum eros. Praesent ac urna eu ante elementum tempor. Proin consectetur leo id erat varius fermentum. Donec congue augue ut tincidunt tincidunt. Donec pharetra tristique massa, in tristique nisl iaculis ac. Nulla in metus dignissim, viverra nibh rhoncus, posuere augue.</string>
+    <string name="servico_detalhe">Serviços</string>
+    <string name="consultoria">Consultoria</string>
+    <string name="processos">Processos</string>
+    <string name="acompanhamento_e_projetos">Acompanhamento e projetos</string>
+    <string name="nossos_clientes">Nossos Clientes</string>
+    <string name="empresa_auditoria">Empresa de auditoria</string>
+    <string name="empresa_dev">Empresa de desenvolvimento de sistemas</string>
+    <string name="contato">Contato</string>
+    <string name="email">E-mail: consultoria@atm.com.br</string>
+    <string name="telefone">Telefone: (11) 3333-2222</string>
+    <string name="celular">Celular: (11) 99999-8888</string>
 </resources>

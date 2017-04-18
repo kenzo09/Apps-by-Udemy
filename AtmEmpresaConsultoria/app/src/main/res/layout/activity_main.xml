@@ -47,9 +47,9 @@
         app:srcCompat="@drawable/menu_cliente"
         android:background="@drawable/menu_cliente"
         android:id="@+id/imvCliente"
-        android:layout_alignParentBottom="true"
+        android:layout_below="@+id/imvEmpresa"
         android:layout_alignStart="@+id/imvEmpresa"
-        android:layout_marginBottom="34dp" />
+        android:layout_marginTop="14dp" />
 
     <ImageView
         android:layout_width="wrap_content"
