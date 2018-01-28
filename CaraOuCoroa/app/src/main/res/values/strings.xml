@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CaraOuCoroa</string>
+    <string name="logo">Logo</string>
+    <string name="jogar">Jogar</string>
+    <string name="voltar">Voltar</string>
+    <string name="cara">Cara</string>
+</resources>
